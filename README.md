@@ -1,4 +1,4 @@
-markdown# Welcome to My Page
+Welcome to My Page
 
 ## About Me
 I'm Lana and this is my personal website.
