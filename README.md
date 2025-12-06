@@ -1,4 +1,3 @@
-# LanaMAustin.github.io.
 markdown# Welcome to My Page
 
 ## About Me
